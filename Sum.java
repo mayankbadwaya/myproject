@@ -5,7 +5,7 @@ public class Sum
     int a=5;
     int b=6;
 
-    System.out.print("hello world");
+    System.out.print(a+b);
 
 }
 }
